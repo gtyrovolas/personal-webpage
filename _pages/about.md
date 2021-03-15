@@ -14,6 +14,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Giannis Tyrovolas. I'm in my third year of my Undergraduate in Mathematics and Computer Science at the University of Oxford. 
+Hi, I'm Giannis Tyrovolas and welcome to my personal website. I'm a third year Maths and Computer Science Undergraduate at University College Oxford. My favourite subjects until now have been Functional Programming, Topology and Machine Learning. 
 
-Come back for an up to date bio, and a more accurate photograph.
+Here you can find some information on projects I've doing and notes from some of the courses I took.
+
+When I'm not studying I enjoy reading and playing story-driven videogames. My favourite movie in recent years was Parasite by Bong Joon-ho.

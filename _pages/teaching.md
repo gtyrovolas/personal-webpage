@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /courses/
+title: courses
 description: Notes from courses I took.
 nav: true
 ---
