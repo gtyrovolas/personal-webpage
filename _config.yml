@@ -28,7 +28,8 @@ navbar_fixed: true
 footer_fixed: false
 
 # Dimensions
-max_width: 850px
+max_width: 70%
+min_width: 600px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -36,8 +37,8 @@ max_width: 850px
 # Open Graph
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+og_image: prof_pic.jpeg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
