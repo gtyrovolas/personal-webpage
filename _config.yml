@@ -29,7 +29,7 @@ footer_fixed: false
 
 # Dimensions
 max_width: 70%
-min_width: 600px
+min_width: 500px
 
 # TODO: add layout settings (single page vs. multi-page)
 
