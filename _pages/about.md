@@ -20,4 +20,4 @@ I'm involved with student government and I am now a member of the Computer Scien
 
 Here you can find information on projects I've doing and notes from the courses I took.
 
-When I'm not studying I enjoy reading, learning and playing story-driven videogames. My favourite movie is Amélie by Jean-Pierre Jeunet.
+When I'm not studying I enjoy reading, learning and playing story-driven videogames. My favourite movie in recent years is Parasite by Bong Joon-ho.
